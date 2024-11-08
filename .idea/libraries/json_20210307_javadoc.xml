@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="json-20210307-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../dependencia/json-20210307-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20210307-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
